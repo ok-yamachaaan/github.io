@@ -1,0 +1,9 @@
+/*COMMON*/
+@media (max-width: 640px) {
+    #top  header{
+        width:100%;
+        background: rgba(0,0,0,0.5);
+        margin:0 auto;
+        padding:4% 0;
+    }
+}
