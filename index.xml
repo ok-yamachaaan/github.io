@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>My New Hugo Site</title>
-    <link>http://example.org/</link>
-    <description>Recent content on My New Hugo Site</description>
+    <title>Yamachaan as Web Developer</title>
+    <link>https://ok-yamachaaan.github.io/</link>
+    <description>Recent content on Yamachaan as Web Developer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>ja-JP</language>
+    <copyright>Untitled.</copyright>
     
-	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://ok-yamachaaan.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
