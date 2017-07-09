@@ -1,7 +1,9 @@
 /*COMMON*/
-#top  header{
-    width:50%;
-    background: rgba(0,0,0,0.5);
-    margin:0 auto;
-    padding:4% 0;
-}
+#top  header{ width:50%; background: rgba(0,0,0,0.5); margin:0 auto; padding:4% 0; }
+
+.skils h3{ margin-bottom:0.5em; }
+.skils p.desc{ margin-bottom:0.5em; }
+.skils ul.layout-tags{width:50%; display:block; margin:0 auto;}
+.skils .layout-tags li{ display:inline-flex; margin-left:1em; }
+.skils .layout-tags li:after{ content:', '; }
+.skils .layout-tags li:last-child:after{ content:''; }
